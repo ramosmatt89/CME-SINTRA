@@ -1,0 +1,7 @@
+{
+  "name": "CME SINTRA",
+  "description": "Uma igreja moderna em Sintra focada em fé, família e esperança. Visita a CME SINTRA e encontra um lugar para recomeçar.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
